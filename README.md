@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img alt="Gympoint" title="Gympoint" src="https://github.com/Rocketseat/bootcamp-gostack-desafio-02/raw/master/.github/logo.png" width="200px" />
-</h1>
-
 ## :rocket: Sobre o desafio
 
 A aplicação se trata de um gerenciador de academia, o **Gympoint**.
